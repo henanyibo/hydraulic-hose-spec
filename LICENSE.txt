@@ -1,0 +1,17 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Henan Yibo Technology Co., Ltd.
+
+You are free to copy, redistribute, transform and build upon this dataset, including
+commercially, under the terms of the licence below, on condition that you give
+attribution to Henan Yibo Technology Co., Ltd. and link to
+https://dohose.cn/hose-spec-table/
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable deed: https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution statement:
+
+  Henan Yibo Technology Co., Ltd. (2026). Hydraulic Hose Specification Chart:
+  EN 853, EN 856, EN 857, EN 854 and SAE 100R working pressure, burst pressure
+  and dimension tables. Retrieved from https://dohose.cn/hose-spec-table/
