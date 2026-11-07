@@ -54,3 +54,4 @@ Retrieved from https://dohose.cn/hose-spec-table/
 Made to order: size, pressure and cover colour can be built to customer requirement, so this file
 describes the standard build, not the only build. Questions or corrections:
 [sales@dohose.com](mailto:sales@dohose.com) — <https://dohose.com/>
+Marine hose for shipbuilding: https://dohose.com/lp-app-marine-vessel-hose/
